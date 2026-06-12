@@ -102,7 +102,7 @@ To self-host Unleash in a production environment, you need to deploy it to a per
 
 We provide guides for deploying to services like Heroku and DigitalOcean:
 
-[![Deploy to Heroku](./.github/deploy-heroku-20.png)](https://www.heroku.com/deploy/?template=https://github.com/Unleash/unleash) [![Deploy to DigitalOcean](./.github/deploy-digital.svg)](https://cloud.digitalocean.com/apps/new?repo=https://github.com/Unleash/unleash/tree/main&refcode=0e1d75187044)
+[![Deploy to Heroku](./.github/deploy-heroku-20.png)](https://www.heroku.com/deploy/?template=https://github.com/cerascreen/unleash/tree/chore/heroku-deply) [![Deploy to DigitalOcean](./.github/deploy-digital.svg)](https://cloud.digitalocean.com/apps/new?repo=https://github.com/Unleash/unleash/tree/main&refcode=0e1d75187044)
 
 For more advanced configurations options, check out our documentation on:
 - [Getting started with self-hosting](https://docs.getunleash.io/deploy/getting-started)
